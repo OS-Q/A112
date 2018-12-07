@@ -2,7 +2,7 @@
 
 [![sites](OS-Q/OS-Q.png)](http：//www.OS-Q.com)
 
-#### 归属设备体系：[Q2](https://github.com/OS-Q/Q2)
+#### 归属通信体系：[Q2](https://github.com/OS-Q/Q2)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
@@ -14,11 +14,11 @@ M6路由节点，用于引导相应数据流到指定位置
 
 #### [管理接口](M7/)
 
-M6节点和M7节点协同
+M6节点和M7节点协议
 
 #### [计算接口](M8/)
 
-M6节点和M8节点协同
+M6节点和M8节点协议
 
 ---
 
