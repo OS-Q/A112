@@ -17,8 +17,8 @@ Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 * Q2：[数据搬运](https://github.com/OS-Q/Q2)
 	* M4：[通信管道](https://github.com/OS-Q/M4)
 	* M5：[通信终端](https://github.com/OS-Q/M5)
-	* M6：[通信网关](https://github.com/OS-Q/M6)
-		* W23：[中继网关](https://github.com/OS-Q/W23)
+	* M6：通信网关
+		* W23：[接收网关](https://github.com/OS-Q/W23)
 		* W24：[集成网关](https://github.com/OS-Q/W24)
 		* W25：[入网网关](https://github.com/OS-Q/W25)
 		* W26：[服务网关](https://github.com/OS-Q/W26)
