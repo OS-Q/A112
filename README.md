@@ -19,10 +19,10 @@ Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 	* M5：[通信终端](https://github.com/OS-Q/M5)
 	* M6：[通信网关](https://github.com/OS-Q/M6)
 		* W23：[中继网关](https://github.com/OS-Q/W23)
-		* W24：[流量网关](https://github.com/OS-Q/W24)
-		* W25：[接入网关](https://github.com/OS-Q/W25)
-		* W26：[数据网关](https://github.com/OS-Q/W26)
-
+		* W24：[集成网关](https://github.com/OS-Q/W24)
+		* W25：[入网网关](https://github.com/OS-Q/W25)
+		* W26：[服务网关](https://github.com/OS-Q/W26)
+		
 ### [Q : Operation System for edge devices](http://www.OS-Q.com/Edge/M6)
 ####  2019-5-9
 
