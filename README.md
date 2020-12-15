@@ -1,28 +1,10 @@
-﻿# [通信网关](https://github.com/OS-Q/M6) 
-[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-#### 归属数据搬运：[Q2](https://github.com/OS-Q/Q2)
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
-Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
-### [节点描述](https://github.com/OS-Q/M6/wiki) 
+﻿# [OpenOCD](https://github.com/OS-Q/U01)
 
-通信网关节点，该节点的主要特点在于数据的交换
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
+### [简介](https://github.com/OS-Q/U01/wiki)
 
-### [节点资源](https://github.com/OS-Q/M6) 
+[OpenOCD](http://openocd.org/) (Open On-Chip Debugger) 是一个运行于PC上的开源调试软件，它可以控制包括Wiggler之内的很多JTAG硬件；我们可以将它理解为一种GDB服务程序。OpenOCD旨在提供针对嵌入式设备的调试、系统编程和边界扫描功能。
 
-- [资源](src/)
-- [文档](docs/)
+[OpenOCD](http://sourceforge.net/projects/openocd)
 
-### [节点结构](https://github.com/OS-Q/M6) 
-
-* Q2：[数据搬运](https://github.com/OS-Q/Q2)
-	* M4：[通信管道](https://github.com/OS-Q/M4)
-	* M5：[通信终端](https://github.com/OS-Q/M5)
-	* M6：通信网关
-		* W23：[接收网关](https://github.com/OS-Q/W23)
-		* W24：[集成网关](https://github.com/OS-Q/W24)
-		* W25：[入网网关](https://github.com/OS-Q/W25)
-		* W26：[服务网关](https://github.com/OS-Q/W26)
-		
-### [Q : Operation System for edge devices](http://www.OS-Q.com/Edge/M6)
-####  2019-5-9
-
+### [OS-Q = [Open Source & Operating System]](http://www.OS-Q.com)
