@@ -1,7 +1,0 @@
-{
-    "description": "OpenOCD",
-    "name": "tool-openocd",
-    "system": "windows_amd64",
-    "url": "http://openocd.org",
-    "version": "2.1000.200630"
-}
